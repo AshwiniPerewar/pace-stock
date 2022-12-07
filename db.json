@@ -1,0 +1,122 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "image": "https://a.ftscrt.com/static/images/food_groups/beans_legumes.jpg",
+      "title": "Beans & Legumes",
+      "desc": "All types of beans and legumes like baked beans, green beans, couscous and lentils."
+    },
+    {
+      "id": 2,
+      "image": "https://a.ftscrt.com/static/images/food_groups/dairy.jpg",
+      "title": "Cheese, Milk & Dairy",
+      "desc": "Cheese varieties and dairy products like cheddar, mozzarella, gouda, skim milk and yoghurt."
+    },
+    {
+      "id": 3,
+      "image": "https://a.ftscrt.com/static/images/food_groups/eggs.jpg",
+      "title": "Eggs",
+      "desc": "Variety of plain and cooked eggs like, egg whites, hard-boiled, scrambled, fried and poached."
+    },
+    {
+      "id": 4,
+      "image": "https://a.ftscrt.com/static/images/food_groups/breads_cereals.jpg",
+      "title": "Breads & Cereals",
+      "desc": "Different types of breads and cereals like bagels, wraps, rye, wheat bread and oatmeal."
+    },
+    {
+      "id": 5,
+      "image": "https://a.ftscrt.com/static/images/food_groups/beverages.jpg",
+      "title": "Drinks",
+      "desc": "Hot and cold drinks like juices, soft drinks, smoothies, coffee, beer, wine and cocktails."
+    },
+    {
+      "id": 6,
+      "image": "https://a.ftscrt.com/static/images/food_groups/fast_food.jpg",
+      "title": "Fast Food",
+      "desc": "Foods from all your favorite chains like burgers, chips, pizza, hot dogs, sandwiches and burritos."
+    },
+    {
+      "id": 7,
+      "image": "https://a.ftscrt.com/static/images/food_groups/fish.jpg",
+      "title": "Fish & Seafood",
+      "desc": "A range of seafood and fish like tuna, salmon, cod, prawns, lobster, scallops and oysters."
+    },
+    {
+      "id": 8,
+      "image": "https://a.ftscrt.com/static/images/food_groups/meat.jpg",
+      "title": "Meat",
+      "desc": "Full range of meats and cuts like bacon, ribs, chicken breast, pork chops, corned beef and roast turkey."
+    },
+    {
+      "id": 9,
+      "image": "https://a.ftscrt.com/static/images/food_groups/sweets_desserts.jpg",
+      "title": "Sweets & Desserts",
+      "desc": "Sweet treats like lollies, chocolate, cake, donuts, ice cream, pastries, muffins, pancakes and biscuits."
+    },
+    {
+      "id": 10,
+      "image": "https://a.ftscrt.com/static/images/food_groups/sauces.jpg",
+      "title": "Sauces, Spices & Spreads",
+      "desc": "All types of sauces and spices like tomato sauce, pasta sauce, salsa, olive oil, mayo, salad dressing, hummus, mustard and maple syrup."
+    },
+    {
+      "id": 11,
+      "image": "https://a.ftscrt.com/static/images/food_groups/beverages.jpg",
+      "title": "Drinks",
+      "desc": "Hot and cold drinks like juices, soft drinks, smoothies, coffee, beer, wine and cocktails."
+    },
+    {
+      "id": 12,
+      "image": "https://a.ftscrt.com/static/images/food_groups/fruit.jpg",
+      "title": "Fruit",
+      "desc": "Popular fruits like apples, bananas, strawberries, oranges, grapes, peaches, pears and grapefruit."
+    }
+  ],
+  "receipe": [
+    {
+      "id": 1,
+      "image": "https://m.ftscrt.com/static/recipe/a7760c7d-eb16-46d5-86c1-ecb974be26ab_sq.jpg",
+      "title": "Keto Alfredo Pasta",
+      "desc": "A low carb recipe with zucchini.",
+      "rating": "https://a.ftscrt.com/static/images/stars/four-star.gif"
+    },
+    {
+      "id": 2,
+      "image": "https://m.ftscrt.com/static/recipe/814eb562-9189-4fa8-9755-b12e4253cb52_sq.jpg",
+      "title": "Masala Buttermilk",
+      "desc": "A spiced yet refreshing Indian drink.",
+      "rating": "https://a.ftscrt.com/static/images/stars/four-star.gif"
+    },
+    {
+      "id": 3,
+      "image": "https://m.ftscrt.com/static/recipe/2f195d14-b627-4f8f-bd25-e2e6800bb0ba_sq.jpg",
+      "title": "Coffee Ice Cream",
+      "desc": "Creamy, easy to make and only 5 ingredients needed.",
+      "rating": "https://a.ftscrt.com/static/images/stars/three-star.gif"
+    },
+    {
+      "id": 4,
+      "image": "https://m.ftscrt.com/static/recipe/ec6c629b-9762-44f6-adc4-887e31eaab16_sq.jpg",
+      "title": "Tuna Salad",
+      "desc": "Tasty and healthy salad made in minutes with basic ingredients.",
+      "rating": "https://a.ftscrt.com/static/images/stars/three-star.gif"
+    }
+  ],
+  "formdata": [
+    {
+      "firstname": "Ashwini",
+      "lastname": "Perewar",
+      "email": "ashwiniperewar@gmail.com",
+      "password": "omkar",
+      "id": 1
+    },
+    {
+      "firstname": "subhash",
+      "lastname": "perewar",
+      "email": "om@gmail.com",
+      "password": "om",
+      "id": 2
+    }
+  ]
+} 
